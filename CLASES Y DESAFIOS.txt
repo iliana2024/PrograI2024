@@ -1,0 +1,120 @@
+https://github.com/iliana2024/Programaci-n2024-.git
+
+namespace PrimerParcaial
+{
+    public class Cuenta_Bancaria
+    {
+
+        public int numeroCuenta;
+        private string nombreTitular;
+        private double saldo;
+
+ public Cuenta_Bancaria(int numeroCuenta, string nombreTitular)
+        {
+            this.numeroCuenta = numeroCuenta;
+            this.nombreTitular = nombreTitular;
+            this.saldo = 1000;
+        }
+ public void funcDepositar(double cantidad)
+        {
+            saldo += cantidad;
+            Console.WriteLine("Se depositó Q" + cantidad + " en la cuenta " + numeroCuenta);
+        }
+  public void Consultar()
+        {
+            Console.WriteLine("El saldo Actual de la cuenta es: Q." + saldo + "para la cuenta: " + numeroCuenta);
+        }
+    }
+}
+
+
+
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
+
+using System;  
+private static double saldo = 0; 
+static void Main()
+{ 
+    int opcion; 
+    do
+    { 
+        Console.WriteLine ("1 verificar el saldo que tiene disponible"); 
+        Console.WriteLine ("2. depositar la cantidad de pisto a la cuenta"); 
+        Console.WriteLine ("3. Quiero retirar dinero de la cuenta"); 
+        Console.WriteLine ("Quiero salir del programa"); 
+        Console.Write ("Elegir una opcion:"); 
+        opcion = int.Parse (Console.ReadLine())
+        switch (opcion)
+        { 
+            case 1: 
+            Console.WriteLine("Ingresse la cantidad que quiere depositar");
+            double deposito = 
+            double.Parse (Console.ReadLine()); 
+            saldo + = deposito; 
+            Console.WriteLine ("Lo que deposito fue realizado con exito realizado con exito");
+            break;
+            case 3: 
+            Console.Write ("Ingrese la cantidad que quiere retirar: "); 
+            double retiro = double.Parse (Console.ReadLine())
+            if (retiro <= saldo)
+              {
+                 saldo -= retiro; 
+              Console.WriteLine("Retiro realizado exitosamente");
+              } 
+              {
+                else 
+                } 
+
+              Console.WriteLine ("El saldo es insuficiente") ;
+                { 
+                break; 
+                default: 
+              
+              Console.WriteLine("Opcion invalida, quiero intentarlo de nuevo");
+              break; 
+              } 
+              } while (opcion ! =4); 
+             }
+         }
+                 
+
+using System; 
+class Program 
+  {  
+    static void Main ()
+    {  
+        double suma = 0; 
+        int cantidadNumeros = 0; 
+        Console.WriteLine ("Ingrese los numeros.Ingrese 0 para terminar"); 
+        while (true)
+        {  
+            Console.Write("Ingrese un numero:");
+             double.Parse (Console.ReadLine()) 
+             if (numero == 0)
+             { 
+                break; 
+                } 
+                suma + = numero; 
+                cantidadNumeros ++; 
+                }  
+                if (cantidadNumeros > 0)
+                { 
+                double promedio = suma / cantidadNumeros; 
+                Console.WriteLine ($ "La suma de los numeros que metio es: {suma} ");
+                Console.WriteLine ($ "El promedio de los numeros que metio es: {promedio}");
+                 { 
+                    else 
+                    }  
+                    Console.WriteLine ("No se ingresaron numeros");
+                    }
+                    }
+                    }
