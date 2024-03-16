@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yuri\\source\\repos\\Sesion7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9C3F5A-BB7F-4A13-B176-461557B72FDD}|Sesion7\\Sesion7.csproj|c:\\users\\yuri\\source\\repos\\sesion7\\sesion7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9C3F5A-BB7F-4A13-B176-461557B72FDD}|Sesion7\\Sesion7.csproj|solutionrelative:sesion7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yuri\\source\\repos\\Sesion7\\Sesion7\\Program.cs",
+              "RelativeDocumentMoniker": "Sesion7\\Program.cs",
+              "ToolTip": "C:\\Users\\yuri\\source\\repos\\Sesion7\\Sesion7\\Program.cs",
+              "RelativeToolTip": "Sesion7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T15:46:37.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

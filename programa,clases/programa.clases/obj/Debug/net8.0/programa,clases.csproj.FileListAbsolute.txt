@@ -1,0 +1,14 @@
+C:\Users\yuri\source\repos\programa,clases\programa,clases\bin\Debug\net8.0\programa,clases.exe
+C:\Users\yuri\source\repos\programa,clases\programa,clases\bin\Debug\net8.0\programa,clases.deps.json
+C:\Users\yuri\source\repos\programa,clases\programa,clases\bin\Debug\net8.0\programa,clases.runtimeconfig.json
+C:\Users\yuri\source\repos\programa,clases\programa,clases\bin\Debug\net8.0\programa,clases.dll
+C:\Users\yuri\source\repos\programa,clases\programa,clases\bin\Debug\net8.0\programa,clases.pdb
+C:\Users\yuri\source\repos\programa,clases\programa,clases\obj\Debug\net8.0\programa,clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuri\source\repos\programa,clases\programa,clases\obj\Debug\net8.0\programa,clases.AssemblyInfoInputs.cache
+C:\Users\yuri\source\repos\programa,clases\programa,clases\obj\Debug\net8.0\programa,clases.AssemblyInfo.cs
+C:\Users\yuri\source\repos\programa,clases\programa,clases\obj\Debug\net8.0\programa,clases.csproj.CoreCompileInputs.cache
+C:\Users\yuri\source\repos\programa,clases\programa,clases\obj\Debug\net8.0\programa,clases.dll
+C:\Users\yuri\source\repos\programa,clases\programa,clases\obj\Debug\net8.0\refint\programa,clases.dll
+C:\Users\yuri\source\repos\programa,clases\programa,clases\obj\Debug\net8.0\programa,clases.pdb
+C:\Users\yuri\source\repos\programa,clases\programa,clases\obj\Debug\net8.0\programa,clases.genruntimeconfig.cache
+C:\Users\yuri\source\repos\programa,clases\programa,clases\obj\Debug\net8.0\ref\programa,clases.dll
