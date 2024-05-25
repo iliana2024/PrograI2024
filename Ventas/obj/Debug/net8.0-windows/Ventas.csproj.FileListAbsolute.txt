@@ -1,0 +1,2 @@
+C:\Users\yuri\source\repos\Ventas\Ventas\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\yuri\source\repos\Ventas\Ventas\obj\Debug\net8.0-windows\Ventas_MarkupCompile.cache
